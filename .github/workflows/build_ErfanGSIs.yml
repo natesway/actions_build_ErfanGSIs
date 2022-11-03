@@ -13,7 +13,7 @@ on:
     
 env:
   ROM_URL: https://fireos-tablet-updates.s3.amazonaws.com/Pm7KvhyWFZJQIFYlTxtf9uaLFm/update-kindle-Fire_HD8_12th_Gen-RS8312_user_1144_0021005367428.bin
-  ROM_NAME: Fire OS
+  ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
