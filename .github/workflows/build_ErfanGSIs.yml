@@ -1,17 +1,15 @@
 name: build_ErfanGSIs
 
 on:
-#  release:
-#    types: [published]
-#  push:
-#    branches:
-#      - master
-#    paths:
-#      - '.config'
-#  schedule:
-#    - cron: 0 8 * * 5
-  watch:
-    types: [started]
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
     
 env:
   ROM_URL: https://fireos-tablet-updates.s3.amazonaws.com/Pm7KvhyWFZJQIFYlTxtf9uaLFm/update-kindle-Fire_HD8_12th_Gen-RS8312_user_1144_0021005367428.bin
