@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://fireos-tablet-updates.s3.amazonaws.com/nTvXTP6Lprflwk5W24Io7yVADN/update-kindle-Fire_HD10-PS7322_user_2547_0022247240580.bin
+  ROM_URL: https://fireos-tablet-updates.s3.amazonaws.com/Pm7KvhyWFZJQIFYlTxtf9uaLFm/update-kindle-Fire_HD8_12th_Gen-RS8312_user_1144_0021005367428.bin
   ROM_NAME: Fire OS
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
