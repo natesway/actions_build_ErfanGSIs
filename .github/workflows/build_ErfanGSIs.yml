@@ -12,8 +12,8 @@ on:
 
     
 env:
-  ROM_URL: http://dl1.samsony.net/firmwares/J400FXXU2ARK2_J400FOJM2ARK1_XSG.zip
-  ROM_NAME: OneUI
+  ROM_URL: https://mde1.androidfilehost.com/dl/_3kkrBdft2HQbRWlHnduUA/1667607061/17825722713688259269/Clean+OS+Exynos+Dec+V2.5.5.zip
+  ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
