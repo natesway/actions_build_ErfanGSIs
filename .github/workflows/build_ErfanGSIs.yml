@@ -12,8 +12,8 @@ on:
 
     
 env:
-  ROM_URL: https://fireos-tablet-updates.s3.amazonaws.com/Pm7KvhyWFZJQIFYlTxtf9uaLFm/update-kindle-Fire_HD8_12th_Gen-RS8312_user_1144_0021005367428.bin
-  ROM_NAME: Generic
+  ROM_URL: http://dl1.samsony.net/firmwares/J400FXXU2ARK2_J400FOJM2ARK1_XSG.zip
+  ROM_NAME: OneUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
